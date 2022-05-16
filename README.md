@@ -1,4 +1,4 @@
-# naacl
+# NAACL 2022
 This repository contains code for the NAACL 2022 Student Workshop paper.
 
 # Data 
