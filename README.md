@@ -1,5 +1,5 @@
 # naacl
-Code for the NAACL paper
+This repository contains code for the NAACL 2022 Student Workshop paper.
 
 # Data 
 The data is not provided due to the copyright. Instead of it, a .txt with some examples is provided.
